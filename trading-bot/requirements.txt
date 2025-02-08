@@ -1,5 +1,5 @@
+python-telegram-bot[job-queue]
 python-dotenv
-python-telegram-bot
 paypalrestsdk
 pandas
 beautifulsoup4
