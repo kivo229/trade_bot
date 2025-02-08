@@ -1,7 +1,0 @@
-python-dotenv
-python-telegram-bot
-paypalrestsdk
-pandas
-beautifulsoup4
-aiosqlite
-pytz
